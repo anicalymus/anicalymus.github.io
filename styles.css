@@ -1,3 +1,12 @@
 /*body {
 	background:blue
+}*/
+
+img {
+	padding: 50px;
+	border: 25px;
+}
+
+#motivation {
+	margin: auto;
 }
