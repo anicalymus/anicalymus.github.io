@@ -1,3 +1,31 @@
 /*body {
 	background:blue
+}*/
+
+img {
+	padding: 50px;
+	border: 25px;
+}
+
+#motivation {
+	margin: auto;
+}
+
+footer {
+	text-align: center;
+}
+
+body {
+	background: url(love-jumprope.jpg);
+	background-repeat: repeat;  
+  background: transparent\5 
+  
+}
+
+header {
+	background-color: #DCDCDC;
+	font-family: Goudy Old Style;
+	padding: 25px;
+	border: 25px;
+	margin: 20px;
 }
