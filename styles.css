@@ -1,6 +1,14 @@
 /*body {
 	background:blue
 }*/
+header {
+	background-color: #DCDCDC;
+	font-family: Goudy Old Style;
+	padding: 25px;
+	border: 25px;
+	margin: 20px;
+	width: 700px;
+}
 
 img {
 	padding: 50px;
@@ -19,13 +27,13 @@ body {
 	background: url(love-jumprope.jpg);
 	background-repeat: repeat;  
   background: transparent\5 
-  
-}
+ }
 
-header {
-	background-color: #DCDCDC;
-	font-family: Goudy Old Style;
-	padding: 25px;
-	border: 25px;
-	margin: 20px;
-}
+ .title {
+ 	font-family: Goudy Old Style;
+ }
+
+ a {
+ 	color: #7B68EE;
+ }
+
